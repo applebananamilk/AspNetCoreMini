@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31410.414
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreMini", "Formwork\AspNetCoreMini.csproj", "{0A9CF528-EEE9-4CF1-85AE-4A962BDAA03D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreMini", "Framework\AspNetCoreMini.csproj", "{0A9CF528-EEE9-4CF1-85AE-4A962BDAA03D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
